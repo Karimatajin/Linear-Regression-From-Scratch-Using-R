@@ -18,5 +18,5 @@ Compare the R2 of the results using your algorithm to the R2 of the results usin
 
 5.Test the model
 
-## Plot the Actual versus Predicted response variables
+## Plotting the Actual versus Predicted response variables
 ![image](https://user-images.githubusercontent.com/43942029/82008145-e7886780-9639-11ea-92dc-570bd2fdb8eb.png)
